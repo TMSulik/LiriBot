@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "node-spotify-api": "^1.0.7"
+  }
 }
